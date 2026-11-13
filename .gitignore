@@ -1,0 +1,12 @@
+# Secrets
+.env
+.env.*
+
+# Projects and client work (not shared)
+clients/
+outputs/
+approved/
+prospects/
+
+# Office temp files
+~$*
